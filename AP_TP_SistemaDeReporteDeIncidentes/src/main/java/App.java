@@ -1,4 +1,6 @@
-
+/*
+Quedó pendiente hacer los enums Estado, TipoProblema y Especialidades
+*/
 
 import com.Hibernate.modelo.AreaComercial;
 import com.Hibernate.modelo.AreaRRHH;
@@ -8,7 +10,7 @@ import java.util.Scanner;
 
 public class App {
 	public static void main(String[] args) {
-		System.out.println("SISTEMA DE REPORTE DE INCIDENTES \nCREADA POR MARTÍN MISELLI Y MARÍA CARLOS");
+		System.out.println("SISTEMA DE REPORTE DE INCIDENTES \nCREADA POR MARTÍN MISELLI Y MARÍA KATHERINE CARLOS SALVATIERRA");
 		System.out.println("Bienvenido a Trabajo Práctico Java Intermedio");
 
 		Scanner scanner = new Scanner(System.in);
