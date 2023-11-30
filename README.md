@@ -1,6 +1,6 @@
-# Sistema-de-Reporte-de-Incidentes
+# Sistema de Reporte de Incidentes
 Proyecto final Java Intermedio. Sistema de reporte de Incidentes, conexión con MySQL
-Realizado por María Carlos y Martín Miselli
+Realizado por #María Carlos# y #Martín Miselli#
 
 Instrucciones:
 1- Encender Apache y MySQL
